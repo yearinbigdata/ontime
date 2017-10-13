@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.dell.toadext.oracle.nui.viewer.detail.OraQueryResultViewer">
+		<section name="051b36fe-1568-43dd-b251-9fa9f79f21c9#EMP">
+		</section>
+		<section name="051b36fe-1568-43dd-b251-9fa9f79f21c9#DEPT">
+			<item value="" key="where"/>
+			<list key="whereHistory">
+			</list>
+			<list key="hidden">
+			</list>
+			<list key="order">
+			</list>
+		</section>
+	</section>
+	<section name="com.dell.toadext.mysql.ui.detailViewer.MySqlQueryResultViewer">
+		<section name="c2540af7-f700-494f-8ee4-0f0c8ace5f3e#emp">
+			<item value="" key="where"/>
+			<list key="whereHistory">
+			</list>
+			<list key="hidden">
+			</list>
+			<list key="order">
+			</list>
+		</section>
+		<section name="c2540af7-f700-494f-8ee4-0f0c8ace5f3e#dept">
+		</section>
+		<section name="c2540af7-f700-494f-8ee4-0f0c8ace5f3e#tbl_emp">
+			<item value="" key="where"/>
+			<list key="whereHistory">
+			</list>
+			<list key="hidden">
+			</list>
+			<list key="order">
+			</list>
+		</section>
+		<section name="9da6783e-aaca-479e-8ad5-244ed681c81f#city">
+		</section>
+		<section name="9da6783e-aaca-479e-8ad5-244ed681c81f#dept">
+		</section>
+	</section>
+</section>

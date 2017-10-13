@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.dell.toadext.view.connection.actions.LinkWithEditorAction">
+		<item value="true" key="active"/>
+	</section>
+	<section name="com.dell.toadext.editor.AbstractEditorExtension$HideResultSetAction">
+		<item value="false" key="active"/>
+	</section>
+	<section name="com.dell.toadext.oracle.nui.viewer.detail.OraTableIndexesViewer">
+	</section>
+	<section name="com.dell.toadext.ui.console.actions.LockAction">
+		<item value="false" key="active"/>
+	</section>
+	<section name="com.dell.toadext.ui.console.actions.ShowDataAction">
+		<item value="false" key="active"/>
+	</section>
+	<section name="com.dell.toadext.oracle.nui.viewer.detail.OraTriggersViewer">
+	</section>
+	<section name="com.dell.toadext.view.monitor.AbstractConnectionMonitorView$LockAction">
+		<item value="false" key="active"/>
+	</section>
+	<section name="aliases_section">
+		<list key="aliases">
+		</list>
+		<list key="queryables">
+		</list>
+	</section>
+	<section name="com.dell.toadext.ui.pages.ToadextOutlinePage$OutlineSortAction">
+		<item value="true" key="active"/>
+	</section>
+	<section name="com.dell.toadext.view.connection.view.handlers.GroupByDbHandler">
+	</section>
+	<section name="com.dell.toadext.ui.console.actions.ShowErrorsAction">
+		<item value="true" key="active"/>
+	</section>
+	<section name="com.dell.toadext.detailbrowser.AbstractColumnsViewer$ShowCommentAction">
+		<item value="false" key="active"/>
+	</section>
+	<section name="com.dell.toadext.ui.console.actions.ShowInputAction">
+		<item value="true" key="active"/>
+	</section>
+	<section name="com.dell.toadext.ui.console.DbConsoleView">
+		<section name="saveToFile">
+		</section>
+	</section>
+	<section name="com.dell.toadext.ui.quickdoc.QuickDocView$LinkWithSelectionAction">
+		<item value="true" key="active"/>
+	</section>
+	<section name="com.dell.toadext.editor.AbstractEditorExtension$RightAlignResultSet">
+		<item value="false" key="active"/>
+	</section>
+	<section name="com.dell.toadext.oracle.nui.viewer.detail.OraTableColumnsViewer">
+	</section>
+	<section name="com.dell.toadext.view.monitor.DbmsOutputView">
+		<section name="saveToFile">
+		</section>
+	</section>
+	<section name="com.dell.toadext.schemabrowser.actions.DisplayDescribeObjectEditorAction">
+		<item value="false" key="active"/>
+	</section>
+	<section name="com.dell.toadext.schemabrowser.actions.LinkWithEditorAction">
+		<item value="true" key="active"/>
+	</section>
+	<section name="com.dell.toadext.mysql.ui.detailViewer.MySqlTableTriggersViewer">
+	</section>
+	<section name="com.dell.toadext.oracle.nui.editor.OraSqlEditorExtension">
+		<section name="editorWeights">
+			<item value="500" key="rsWeight"/>
+			<item value="500" key="editorWeight"/>
+		</section>
+		<section name="saveToFile">
+		</section>
+	</section>
+	<section name="com.dell.toadext.mysql.ui.detailViewer.MySqlDboDataViewer">
+		<section name="9da6783e-aaca-479e-8ad5-244ed681c81f#world.city">
+			<item value=",,,,," key="col.widths"/>
+		</section>
+		<section name="c2540af7-f700-494f-8ee4-0f0c8ace5f3e#world.tbl_emp">
+			<item value=",,,,,,,,," key="col.widths"/>
+		</section>
+		<section name="9da6783e-aaca-479e-8ad5-244ed681c81f#world.dept">
+			<item value=",,," key="col.widths"/>
+		</section>
+		<section name="c2540af7-f700-494f-8ee4-0f0c8ace5f3e#world.dept">
+			<item value=",,," key="col.widths"/>
+		</section>
+		<section name="c2540af7-f700-494f-8ee4-0f0c8ace5f3e#world.emp">
+			<item value=",,,,,,,,," key="col.widths"/>
+		</section>
+	</section>
+	<section name="com.dell.toadext.view.monitor.AbstractConnectionMonitorView$EnableAction">
+		<item value="true" key="active"/>
+	</section>
+	<section name="com.dell.toadext.detailbrowser.viewer.AbstractQueryResultViewer$SortColumnsAction">
+		<item value="false" key="active"/>
+	</section>
+	<section name="com.dell.toadext.mysql.ui.detailViewer.MySqlConstraintsViewer">
+	</section>
+	<section name="com.dell.toadext.mysql.ui.detailViewer.MySqlTableColumnsViewer">
+	</section>
+	<section name="com.dell.toadext.oracle.nui.viewer.detail.OraQueryResultViewer$1">
+		<section name="051b36fe-1568-43dd-b251-9fa9f79f21c9#SCOTT.DEPT">
+			<item value=",,,," key="col.widths"/>
+		</section>
+		<section name="051b36fe-1568-43dd-b251-9fa9f79f21c9#SCOTT.EMP">
+			<item value=",,,,,,,,,," key="col.widths"/>
+		</section>
+	</section>
+	<section name="com.dell.toadext.editor.AbstractEditorExtension$BottomAlignResultSet">
+		<item value="false" key="active"/>
+	</section>
+	<section name="com.dell.toadext.mysql.ui.detailViewer.MySqlIndexesViewer">
+	</section>
+	<section name="com.dell.toadext.ui.console.actions.ShowStandardLogsAction">
+		<item value="true" key="active"/>
+	</section>
+	<section name="com.dell.toadext.oracle.nui.viewer.detail.OraTableConstraintsViewer">
+	</section>
+	<section name="com.dell.toadext.mysql.ui.editor.MySqlEditorExtension">
+		<section name="editorWeights">
+			<item value="33" key="rsWeight"/>
+			<item value="960" key="editorWeight"/>
+		</section>
+		<section name="saveToFile">
+		</section>
+	</section>
+	<section name="com.dell.toadext.detailbrowser.AbstractColumnsViewer$SortColumnsAction">
+		<item value="false" key="active"/>
+	</section>
+</section>
